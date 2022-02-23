@@ -19,6 +19,9 @@ import io.jsonwebtoken.SignatureAlgorithm;
 import mx.edu.itlapiedad.dao.UsuariosJDBC;
 
 import org.springframework.web.bind.annotation.RequestParam;
+
+//comentario para ejemplificar cambios git
+
 //Anotaciones para configurar la clase como un controlador HTTP
 @RestController
 @RequestMapping("/api/mensajes")
